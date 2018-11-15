@@ -13,6 +13,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 - [Features](#features)
 - [Maquettes](#maquettes)
+- [Docs](#docs)
 - [Technologies utilisées](#technologies-utilisées)
 - [How To](#how-to)
 
@@ -52,9 +53,13 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 - [Examples WebDesign Inspiration](https://www.webdesign-inspiration.com/web-designs/type/mobile-app)
 ### Maquettes graphiques (Charte graphique, etc...)
 
-#### Vues
+## Docs ~
 
-#### Outils & Inspiration
+### Diagramme de cas d'utilisation
+
+### Diagramme de classe
+
+### Diagramme de séquence
 
 ## Technologies utilisées ~
 
