@@ -41,13 +41,18 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 ### Maquettes fonctionnelles (Wireframe, pour le layout)
 
+#### Vues
+
+#### Outils & Inspiration
 - [Balsamiq](https://balsamiq.com)
 - [Canva](https://www.canva.com)
 - [Moqup](https://moqups.com/)
 
 ### Maquettes graphiques (Charte graphique, etc...)
 
+#### Vues
 
+#### Outils & Inspiration
 
 ## Technologies utilisées
 
