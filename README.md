@@ -2,8 +2,8 @@
 
 ## Description
 
-
-
+MediaAdvisor est un projet visant à donner à ses utilisateurs un moyen de s'exprimer vis-à-vis de la qualité et de la crédibilité des médias qu'ils ont pu utilisés.
+Dans un second temps, le système de notation permettra aux utilisateurs de s'orienter vers des médias de qualité, en fonction de leur pays et de leur sujet favoris.
 
 [Source de l'idée du projet.](https://twitter.com/elonmusk/status/999374720368689153?lang=en)
 
