@@ -9,6 +9,13 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 > Projet de mise en pratique des compétences acquises en POEI.
 
+## Sommaire
+
+- [Features](#Features)
+- [Maquettes]()
+- [Technologies utilisées]()
+- [How To]()
+
 ## Features (may change)
 
 1. FEATURES LISTE pour étape **BASE**
