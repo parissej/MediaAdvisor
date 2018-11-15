@@ -1,10 +1,13 @@
 # MediaAdvisor
-[Ecrire la description du projet ici]
 
 ## Description
 
 
+
+
 [Source de l'idée du projet.](https://twitter.com/elonmusk/status/999374720368689153?lang=en)
+
+> Projet de mise en pratique des compétences acquises en POEI.
 
 ## Features (may change)
 
@@ -28,6 +31,8 @@
 	- API pour sites tiers : noter les articles/émissions directement sur leur support propriétaire (media)
 
 ## Maquettes
+
+## Technologies Used
 
 ## How To
 
