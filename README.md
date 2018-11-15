@@ -18,7 +18,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 	- *MODIFICATION* d'un media (media)
 	- *RECHERCHER* d'un media (media & user)
 
-2. FEATURES LISTE pour étape **NOTE** (user) [voir ajout d'un commentaire en + de la note]
+2. FEATURES LISTE pour étape **NOTATION** (user) [voir ajout d'un commentaire en + de la note]
 	- *NOTER* un media [un article à la fois si PRESSE, une émission au globale si CHAÎNE D'INFO]
 	- *REVOIR* SES NOTES
 	- *CHANGER* SES NOTES
