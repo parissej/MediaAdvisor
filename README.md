@@ -51,6 +51,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 - [Examples Medium](https://medium.muz.li/cool-ideas-of-mobile-ui-inspiration-2a4c11a818d2)
 - [Examples WebDesign Inspiration](https://www.webdesign-inspiration.com/web-designs/type/mobile-app)
+
 ### Maquettes graphiques (Charte graphique, etc...)
 
 ## Docs ~
@@ -87,3 +88,10 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 - Production Release (MMP)
 
+### Team
+
+- Leonor
+- Juliette
+- Guillaume
+- Pierre
+- Jean
