@@ -11,7 +11,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 ## Sommaire
 
-- [Features](./#Features)
+- [Features](#features)
 - [Maquettes]()
 - [Technologies utilisées]()
 - [How To]()
