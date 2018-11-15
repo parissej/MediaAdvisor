@@ -16,7 +16,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 - [Technologies utilisées](#technologies-utilisées)
 - [How To](#how-to)
 
-## Features (may change)
+## Features (may change) ~
 
 1. Etape **BASE**
 	- *INSCRIPTION* User (user)
@@ -56,8 +56,29 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 #### Outils & Inspiration
 
-## Technologies utilisées
+## Technologies utilisées ~
+
+### Front End
+
+- HTML
+- CSS
+- Javascript
+- Angular 8
+- Material / Bootstrap
+- Ionic / NativeScript
+
+### Back End
+
+- JEE
+- Spring
+- ODBC
+- API REST
 
 ## How To
 
+### Deploy
+
+- Development Release (MVP)
+
+- Production Release (MMP)
 
