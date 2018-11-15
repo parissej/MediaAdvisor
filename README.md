@@ -49,7 +49,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 - [Moqup](https://moqups.com/)
 
 - [Examples Medium](https://medium.muz.li/cool-ideas-of-mobile-ui-inspiration-2a4c11a818d2)
-- [Examples WebDesignInspiration](https://www.webdesign-inspiration.com/web-designs/type/mobile-app)
+- [Examples WebDesign Inspiration](https://www.webdesign-inspiration.com/web-designs/type/mobile-app)
 ### Maquettes graphiques (Charte graphique, etc...)
 
 #### Vues
