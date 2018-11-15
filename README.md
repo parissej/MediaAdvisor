@@ -64,7 +64,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 ## Technologies utilisées ~
 
-### Front End
+### Front End ~
 
 - HTML
 - CSS
@@ -73,11 +73,15 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 - Material / Bootstrap
 - Ionic / NativeScript
 
-### Back End
+### Back End ~
 
 - JEE
+- JUnit
+- Maven
+- GitHub
+- TomCat
 - Spring
-- ODBC
+- ODBC 
 - API REST
 
 ## How To
