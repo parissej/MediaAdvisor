@@ -12,9 +12,9 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 ## Sommaire
 
 - [Features](#features)
-- [Maquettes]()
-- [Technologies utilisées]()
-- [How To]()
+- [Maquettes](#maquettes)
+- [Technologies utilisées](#technologies-utilisées)
+- [How To](#how-to)
 
 ## Features (may change)
 
