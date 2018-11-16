@@ -85,6 +85,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 ### Back End ~
 
 - JEE
+- Node
 - JUnit
 - Maven
 - GitHub
