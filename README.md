@@ -66,6 +66,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 ## Docs ~
 
 ### Diagramme de cas d'utilisation
+![DCU](Docs/MA-UC-Diagram.png)
 
 ### Diagramme de classe
 
