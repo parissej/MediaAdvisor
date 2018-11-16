@@ -47,11 +47,11 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 #### Outils & Inspiration
 
 - Accueil
-![Accueil](./docs/Maquettes/Accueil.png)
+![Accueil](Docs/Maquettes/Accueil.png)
 - Accueil Menu
-![Accueil Menu](docs/Maquettes/Accueil_Menu.png)
+![Accueil Menu](Docs/Maquettes/Accueil_Menu.png)
 - Inscription
-![Inscription](docs/Maquettes/Inscription.png)
+![Inscription](Docs/Maquettes/Inscription.png)
 
 
 - [Balsamiq](https://balsamiq.com)
