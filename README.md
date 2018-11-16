@@ -51,7 +51,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 - Accueil Menu
 ![Accueil Menu](Docs/Maquettes/Accueil_Menu.png)
 - Inscription
-![Inscription](Docs/Maquettes/Inscription.png)
+![Inscription](Docs/Maquettes/Inscription_User.png)
 
 
 - [Balsamiq](https://balsamiq.com)
