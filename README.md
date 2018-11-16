@@ -45,6 +45,15 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 #### Vues
 
 #### Outils & Inspiration
+
+- Accueil
+![Accueil](docs/Maquettes/Accueil.png)
+- Accueil Menu
+![Accueil Menu](docs/Maquettes/Accueil_Menu.png)
+- Inscription
+![Inscription](docs/Maquettes/Inscription.png)
+
+
 - [Balsamiq](https://balsamiq.com)
 - [Canva](https://www.canva.com)
 - [Moqup](https://moqups.com/)
