@@ -77,6 +77,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 - HTML
 - CSS
+- Sass
 - Javascript
 - Angular 8
 - Material / Bootstrap
