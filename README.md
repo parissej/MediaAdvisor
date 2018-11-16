@@ -47,7 +47,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 #### Outils & Inspiration
 
 - Accueil
-![Accueil](docs/Maquettes/Accueil.png)
+![Accueil](./docs/Maquettes/Accueil.png)
 - Accueil Menu
 ![Accueil Menu](docs/Maquettes/Accueil_Menu.png)
 - Inscription
