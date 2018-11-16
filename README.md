@@ -77,7 +77,6 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 - HTML
 - CSS
-- Sass
 - Javascript
 - Angular 8
 - Material / Bootstrap
@@ -86,7 +85,6 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 ### Back End ~
 
 - JEE
-- Node
 - JUnit
 - Maven
 - GitHub
@@ -96,6 +94,10 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 - API REST
 
 ## How To
+
+### Pre-requisites
+
+[PDF](Docs/Pre-requis.pdf)
 
 ### Deploy
 
