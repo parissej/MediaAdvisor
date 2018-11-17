@@ -114,7 +114,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 ## Team
 
-- Leonor
+- Leonore
 - Juliette
 - Guillaume
 - Pierre
