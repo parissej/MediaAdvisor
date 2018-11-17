@@ -78,8 +78,9 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 - HTML
 - CSS
+- Sass
 - Javascript
-- Angular 8
+- Angular (Version 7.0.4 Stable)
 - Material / Bootstrap
 - Ionic / NativeScript
 
@@ -87,6 +88,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 - JEE
 - JUnit
+- NodeJs (Version 10.13.0 LTS)
 - Maven
 - GitHub
 - TomCat
@@ -106,10 +108,15 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 - Production Release (MMP)
 
-### Team
+## Team
 
 - Leonor
 - Juliette
 - Guillaume
 - Pierre
 - Jean
+
+
+## POE
+
+[Lien vers le projet de l'autre équipe (à compléter)](Docs/Pre-requis.pdf)
