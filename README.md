@@ -68,6 +68,10 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 ### Diagramme de cas d'utilisation
 ![DCU](Docs/MA-UC-Diagram.png)
 
+### Dictionnaire de données
+
+[Dictionnaire](Docs/Dictionnaire_de_données.pdf)
+
 ### Diagramme de classe
 
 ### Diagramme de séquence
