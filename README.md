@@ -84,14 +84,12 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 ### Maquettes graphiques (Charte graphique, etc...)
 
-## Docs ~
+## Documentation provisoire
 
 ### Diagramme de cas d'utilisation
 ![DCU](Docs/MA-UC-Diagram.png)
 
-### Dictionnaire de données
-
-[Dictionnaire](Docs/Dictionnaire_de_données.pdf)
+### Dictionnaire de données [lien vers le PDF](Docs/Dictionnaire_de_données.pdf)
 
 ### Model Conceptuel de Données
 
@@ -127,9 +125,10 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 ## How To
 
-### Pre-requisites
+### Install & Use prerequisites
 
-[PDF](Docs/Pre-requis.pdf)
+[NodeJs, Angular, Git PDF](Docs/Pre-requis.pdf)
+[Git Bash / GitHub Quickstart Guide](Docs/git.pdf) 
 
 ### Deploy
 
@@ -144,7 +143,6 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 - Guillaume
 - Pierre
 - Jean
-
 
 ## POE
 
