@@ -13,7 +13,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 - [Features](#features)
 - [Maquettes](#maquettes)
-- [Docs](#docs)
+- [Documentation](#documentation-provisoire)
 - [Technologies utilisées](#technologies-utilisées)
 - [How To](#how-to)
 
