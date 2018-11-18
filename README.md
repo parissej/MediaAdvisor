@@ -54,7 +54,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 ![Inscription](Docs/Maquettes/Inscription_User.png)
 - Inscription Media
 ![Inscription](Docs/Maquettes/Inscription_Media.png)
-- Inscription
+- Media Search
 ![Recherche](Docs/Maquettes/Media_Search.png)
 - Carte Media
 ![Inscription](Docs/Maquettes/Media_Card.png)
