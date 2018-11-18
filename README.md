@@ -50,8 +50,14 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 ![Accueil](Docs/Maquettes/Accueil.png)
 - Accueil Menu
 ![Accueil Menu](Docs/Maquettes/Accueil_Menu.png)
-- Inscription
+- Inscription User
 ![Inscription](Docs/Maquettes/Inscription_User.png)
+- Inscription Media
+![Inscription](Docs/Maquettes/Inscription_Media.png)
+- Inscription
+![Recherche](Docs/Maquettes/Media_Search.png)
+- Carte Media
+![Inscription](Docs/Maquettes/Media_Card.png)
 
 
 - [Balsamiq](https://balsamiq.com)
