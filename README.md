@@ -98,6 +98,8 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 ### Diagramme de classe
 
+![Diagramme de classe temporaire (StarUML)](Docs/Diagramme_de_classe.png)
+
 ### Diagramme de séquence (waiting for backend)
 
 ## Technologies utilisées ~
