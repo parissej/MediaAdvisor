@@ -46,8 +46,6 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 #### Vues
 
-#### Outils & Inspiration
-
 - Accueil (+ suggestions)
 	- Mettre en place un prompt pour l'inscription (popup d'une fois ou bloc fixe sur le côté)
 	- Ajouter les réseaux sociaux
@@ -76,6 +74,8 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 ![Inscription](Docs/Maquettes/Media_Card.png)
 
+
+#### Outils & Inspiration
 
 - [Balsamiq](https://balsamiq.com)
 
