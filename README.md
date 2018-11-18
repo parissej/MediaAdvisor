@@ -36,6 +36,8 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 	- *REMONTER* des informations évaluées par TLM sur PAGE D'ACCUEIL (STARRING MAX CRED) (article ou émission)
 
 4. Etape **BONUS**
+	- Système de récompense pour utiisateurs assidus (système d'abonnement entre utilisateurs, titres: ex. "débutant / "expert", badges)
+	- Système d'abonnement entre utilisateurs
 	- *API* pour sites tiers : noter les articles/émissions directement sur leur support propriétaire (media)
 
 ## Maquettes
@@ -46,7 +48,12 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 #### Outils & Inspiration
 
-- Accueil
+- Accueil (+ suggestions)
+	- Mettre en place un prompt pour l'inscription (popup d'une fois ou bloc fixe sur le côté)
+	- Ajouter les réseaux sociaux
+	- Image en fond avec une barre de recherche décalée (entre menu de navigation et premiers éléments de la page)
+	- Rajouter du contenu de chaque côté du contenu principal (filtres de recherche, user reviews, abonnement utilisateurs)
+	
 ![Accueil](Docs/Maquettes/Accueil.png)
 - Accueil Menu
 ![Accueil Menu](Docs/Maquettes/Accueil_Menu.png)
