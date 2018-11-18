@@ -55,15 +55,25 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 	- Rajouter du contenu de chaque côté du contenu principal (filtres de recherche, user reviews, abonnement utilisateurs)
 	
 ![Accueil](Docs/Maquettes/Accueil.png)
+
 - Accueil Menu
+
 ![Accueil Menu](Docs/Maquettes/Accueil_Menu.png)
+
 - Inscription User
+
 ![Inscription](Docs/Maquettes/Inscription_User.png)
+
 - Inscription Media
+
 ![Inscription](Docs/Maquettes/Inscription_Media.png)
+
 - Media Search
+
 ![Recherche](Docs/Maquettes/Media_Search.png)
+
 - Carte Media
+
 ![Inscription](Docs/Maquettes/Media_Card.png)
 
 
