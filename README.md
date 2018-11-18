@@ -72,6 +72,10 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 [Dictionnaire](Docs/Dictionnaire_de_données.pdf)
 
+### Model Conceptuel de Données
+
+![MCD (fichier modifiable avec StarUML dans le dossier Docs)](Docs/MCD.png)
+
 ### Diagramme de classe
 
 ### Diagramme de séquence
