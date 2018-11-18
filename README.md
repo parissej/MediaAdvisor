@@ -87,9 +87,10 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 ## Documentation provisoire
 
 ### Diagramme de cas d'utilisation
+
 ![DCU](Docs/MA-UC-Diagram.png)
 
-### Dictionnaire de données [lien vers le PDF](Docs/Dictionnaire_de_données.pdf)
+### Dictionnaire de données ([lien vers le PDF](Docs/Dictionnaire_de_données.pdf))
 
 ### Model Conceptuel de Données
 
@@ -97,7 +98,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 ### Diagramme de classe
 
-### Diagramme de séquence
+### Diagramme de séquence (waiting for backend)
 
 ## Technologies utilisées ~
 
@@ -127,8 +128,8 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 ### Install & Use prerequisites
 
-[NodeJs, Angular, Git PDF](Docs/Pre-requis.pdf)
-[Git Bash / GitHub Quickstart Guide](Docs/git.pdf) 
+- [NodeJs, Angular, Git PDF](Docs/Pre-requis.pdf)
+- [Git Bash / GitHub Quickstart Guide](Docs/git.pdf) 
 
 ### Deploy
 
