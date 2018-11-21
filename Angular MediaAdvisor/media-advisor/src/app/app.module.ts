@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {MatButtonModule, MatCheckboxModule} from '@angular/material';
 import {MatMenuModule} from '@angular/material/menu';
+
 import { FooterComponent } from './footer/footer.component';
 import { HeaderComponent } from './header/header.component';
 import { InscriptionUserComponent } from './inscription-user/inscription-user.component';
@@ -12,6 +13,11 @@ import { InscriptionMediaComponent } from './inscription-media/inscription-media
 import { ArticleComponent } from './article/article.component';
 import { FicheMediaComponent } from './fiche-media/fiche-media.component';
 import { ApiTestCompsantComponent } from './api-test-compsant/api-test-compsant.component';
+
+import { Observable, of } from 'rxjs';
+import { catchError, tap } from 'rxjs/operators';
+import { HttpClient, HttpHeaders, HttpClientModule } from '@angular/common/http';
+import { Users } from './users';
 
 
 @NgModule({
@@ -30,7 +36,8 @@ import { ApiTestCompsantComponent } from './api-test-compsant/api-test-compsant.
     BrowserAnimationsModule,
     MatButtonModule,
     MatCheckboxModule,
-    MatMenuModule
+    MatMenuModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,3 +1,8 @@
 <p>
-  api-test-compsant works!
+  api-test-compsant works! Now the users in DB :
 </p>
+<ul>
+  <li *ngFor="let user of users">
+    <span>ID: {{ user.id_user }} </span>-<span> EMAIL: {{ user.email }} </span>-<span> USERNAME: {{ user.user_name }}</span>
+  </li>
+</ul>
