@@ -138,7 +138,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 #### From git
 
 - Angular & co : once you downloaded the `angular-setup` branch, go in the directory in which you'll find angular (with several jsons such as angular.json & package.json), open the windows prompt in it (or *navigate to it with the console : cd, etc...* `windows button + r : type 'cmd'`) and type `npm install`.
-To test if it's working properly, once the download / installation from npm is complete, type `ng serve` in the same prompt and same directory.
+To test if it's working properly, once the download / installation from npm is complete, type `ng serve` in the same prompt and same directory. You should see the web page open itself and if it's not the case open [http://localhost:4200/](http://localhost:4200/).
 
 - API REST : download the `api-rest` branch and import it with your java IDE as a **Maven Project**, right click on the project and select `Maven > update project`. If you want to test it you might want to download a chrome extension such as ARC or Restlet Client. To actually test it, just type or copy `localhost:8095/rest/user/all` in your **GET** field.
 
