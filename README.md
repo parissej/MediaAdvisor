@@ -137,7 +137,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 #### From git
 
-- angular & co : go in the directory in which you'll find angular (with several jsons such as angular.json & package.json), open the windows prompt in it (or nvaigate to it with the console : cd, etc...) and type :
+- angular & co : go in the directory in which you'll find angular (with several jsons such as angular.json & package.json), open the windows prompt in it (or navigate to it with the console : cd, etc...)`windows button + r : type 'cmd' et and type :
 
 `npm install`
 
