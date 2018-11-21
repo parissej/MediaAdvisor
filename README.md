@@ -130,8 +130,16 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 ### Install & Use prerequisites
 
+#### From the ground up
+
 - [NodeJs, Angular, Git PDF](Docs/Pre-requis.pdf)
 - [Git Bash / GitHub Quickstart Guide](Docs/git.pdf) 
+
+#### From git
+
+- angular & co : go in the directory in which you'll find angular (with several jsons such as angular.json & package.json), open the windows prompt in it (or nvaigate to it with the console : cd, etc...) and type :
+
+`npm install`
 
 ### Deploy
 
