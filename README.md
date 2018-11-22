@@ -128,7 +128,7 @@ Dans un second temps, le système de notation permettra aux utilisateurs de s'or
 
 ## How To
 
-### Install & Use prerequisites
+### Install prerequisites
 
 #### From the ground up
 
