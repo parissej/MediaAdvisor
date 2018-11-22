@@ -1,0 +1,25 @@
+@import "../../ma-theme.scss";
+
+/*
+    SCSS : 
+    - on peut exporter certaines propriétés (cf. ma-theme.scss)
+    - on peut literalement écrire la description du code en cascade.
+*/
+
+#header {
+    background-color:$primary-bg-color;
+    color: $primary-color-on-bg;
+
+    mat-toolbar-row {
+        .title{
+            text-align: center;
+            width: 50%;
+        }
+        .spacer {
+            flex: 1 1 auto;
+        }
+        .menu {
+            padding: 0 14px;
+        }
+    }
+}

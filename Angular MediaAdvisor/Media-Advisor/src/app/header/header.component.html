@@ -1,3 +1,19 @@
-<p>
-  header works!
-</p>
+<!-- Composant mat-toolbar module de Material (à importer dans app.module.ts import{} & @NgModule imports) -->
+<mat-toolbar id="header">
+  <mat-toolbar-row>
+    <span class="title">Media Advisor</span>
+    <span class="spacer"></span>
+    <div class="menu">
+        <!-- vvv Exemple d'un Material Icon vvv -->
+        <!--<mat-icon>favorite</mat-icon>-->
+
+        <!-- appel du composant "recherche-media" qui a ses propres dossier et fichiers -->
+        <app-recherche-media></app-recherche-media>
+    </div>
+    <div class="menu">
+        <!--<mat-icon>user</mat-icon>-->
+
+        <app-inscription-user></app-inscription-user>
+    </div>
+  </mat-toolbar-row>
+</mat-toolbar>
