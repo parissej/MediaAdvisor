@@ -15,16 +15,10 @@ export class ApiTestServiceService {
 
   private usersUrl = 'http://localhost:8095/rest/user/all';  // URL to web api
 
-  /** Log a HeroService message with the MessageService */
-  private log(message: string) {
-    console.log('meh');
-  }
-
   getUsers(): Observable<Users[]> {
     return this.http.get<Users[]>(this.usersUrl)
     .pipe(
-      tap(_ => this.log('fetched heroes')),
-      catchError(this.handleError('getHeroes', []))
+      catchError(this.handleError('getUsers', []))
     );
   }
   /**
@@ -40,7 +34,7 @@ private handleError<T> (operation = 'operation', result?: T) {
       console.error(error); // log to console instead
 
       // TODO: better job of transforming error for user consumption
-      this.log(`${operation} failed: ${error.message}`);
+      console.log(`${operation} failed: ${error.message}`);
 
       // Let the app keep running by returning an empty result.
       return of(result as T);
